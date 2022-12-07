@@ -19,7 +19,7 @@ Learning JavaScript libraries and frameworks can be overwhelming. There are many
 
 ## Screenshots
 # Browser
-![Example screenshot](screenshot/screen-browser.jpg)
+![Example screenshot](screen-browser.jpg)
 
 
 
