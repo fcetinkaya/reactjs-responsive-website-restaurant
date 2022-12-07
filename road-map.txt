@@ -1,0 +1,26 @@
+-	npx create-react-app ./
+-	src folder delete
+-	Add new folder > src
+-	Add new FileJS > src > index.js
+-	Add new FileJS > src > App.js
+-	npm i react-icons
+-	Download link starter files
+	- https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Fadrianhajdin%2Fproject_modern_ui_ux_restaurant%2Ftree%2Fmain%2Fstarter_src
+
+-	Change old src folder from new starter_src folder > rename folder name "src"
+
+-	npm start run
+
+
+
+
+
+
+
+
+
+
+
+
+
+
