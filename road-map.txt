@@ -12,10 +12,13 @@
 -	npm start run
 
 
+Add new value in package.json > homepage
+	  "name": "react-portfolio-tech",
+  	"homepage":"./",
+  	"version": "0.1.0",
 
-
-
-
+-	npm run build
+-	netlify deploy
 
 
 
